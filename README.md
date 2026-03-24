@@ -12,8 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sinchreddy&theme=city_lights&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchreddy&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sinchreddy&theme=city_lights&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sinchreddy&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+--!>
