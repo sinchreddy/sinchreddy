@@ -1,21 +1,286 @@
-# 💫 About Me:
-👋 Hi there, I’m Sinchana!<br><br>🎓 I’m a Computer Science student with a strong interest in building practical, real-world tech solutions. I enjoy exploring different areas of technology and continuously improving my problem-solving skills through hands-on projects.<br><br>💻 I have experience working with web development, mobile app development, and backend concepts, and I like turning ideas into functional applications. I’m especially interested in understanding how systems work end-to-end.<br><br>🌱 Currently, I’m learning and experimenting with new technologies, frameworks, and development tools to strengthen my technical foundation and stay industry-ready.<br><br>🤝 I’m open to collaborating on beginner-to-intermediate projects, hackathons, and open-source contributions where I can learn, contribute, and grow alongside others.<br><br>💬 Ask me about programming basics, project development, or my learning journey in tech—I’m always happy to share and learn together.<br><br>⚡ Fun fact: I believe consistency and curiosity matter more than knowing everything—and I enjoy learning something new every day!
+<div align="center">
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                         HERO SECTION                              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+```
+    ┌─────────────────────────────────────────────────────┐
+    │                                                     │
+    │          Building real-world applications           │
+    |               for the web and mobile.               |
+    │            One clean commit at a time.              │
+    │                                                     │
+    └─────────────────────────────────────────────────────┘
+```
+
+# Sinchana Nandheesha
+
+** · Computer Science Graduate · **
+
+*I build thoughtful digital experiences — from pixel-perfect UIs to resilient backends.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchananandheesha/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinchanareddyn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](sinchana-nandheesha-portfolio.vercel.app/)
+[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sinchreddy)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Full-Stack+Developer;Backend+%26+Flask+Developer;Mobile+App+Builder;Building+Real+World+Projects;Always+Learning+and+Improving" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT SECTION                              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## `$ whoami`
+
+```yaml
+name       : Sinchana Nandheesha
+degree     : B.E. Computer Science
+location   : India
+status     : Open to opportunities
+```
+
+> CS graduate who writes code that's meant to be read — not just run.
+> I care about the details: clean architecture, intuitive UX, and systems that scale.
+> Comfortable across the full stack, from designing REST APIs to shipping mobile apps.
+
+**What I bring to the table →**
+- 🧩 End-to-end product thinking — from database schema to UI polish
+- ⚡ A bias for shipping fast without cutting corners
+- 🔍 Debugging instincts sharpened through real projects, not just coursework
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK SECTION                           -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## `$ tech --list`
+
+<br/>
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 🗄️ Databases & Backend Services
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84?style=flat-square&logo=android&logoColor=black)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchananandheesha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sinchana-N-74) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lost_Share_7497) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sinchreddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinchanareddyn@gmail.com) 
+### 📊 Data / AI / Libraries
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sinchreddy&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sinchreddy&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchreddy&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🎯 Extra Skills
+- API Integration
+- System Design Basics
+- Problem Solving (DSA)
+- UI/UX Thinking
+- Linux Command Line Basics
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sinchreddy&theme=city_lights&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sinchreddy&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
---!>
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS SECTION                      -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## `$ projects --featured`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio Website
+
+> *Modern developer portfolio built with React + Vite*
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Highlights**
+- ✦ Responsive modern UI with smooth animations  
+- ✦ Contact form integrated using EmailJS  
+- ✦ Component-based architecture  
+- ✦ Deployed on Vercel
+  
+[![Live](https://img.shields.io/badge/Live_Demo-→-%236C63FF?style=for-the-badge)](https://sinchana-nandheesha-portfolio.vercel.app/)
+[![Code](https://img.shields.io/badge/GitHub_Repo-→-%23181717?style=for-the-badge&logo=github)](https://github.com/sinchreddy/Sinchana-Portfolio)
+</td>
+
+<td width="50%" valign="top">
+  
+### ❤️ Hridaya
+
+> *A meaningful tech project focused on health/emotional wellness (customizable concept project)*
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+
+**Highlights**
+- ✦ Structured system design for user data handling  
+- ✦ Backend-driven architecture using Flask  
+- ✦ Database integration for storing user records  
+- ✦ Focus on clean, simple, user-centric UI
+  
+[![Code](https://img.shields.io/badge/GitHub_Repo-→-%23181717?style=for-the-badge&logo=github)](#)
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 AutoEval – Evaluation System
+
+> *Automated academic performance evaluation system*
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Highlights**
+- ✦ Student performance analytics  
+- ✦ Teacher evaluation dashboard  
+- ✦ Report generation system  
+- ✦ Data visualization support
+  
+[![Code](https://img.shields.io/badge/GitHub_Repo-→-%23181717?style=for-the-badge&logo=github)](#)
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Santhe-Connect App
+
+> *Android app for local market discovery in Karnataka*
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+
+**Highlights**
+- ✦ Local market discovery system  
+- ✦ Vendor listings and categories  
+- ✦ Location-based UI experience  
+- ✦ Mobile-first design
+  
+[![Code](https://img.shields.io/badge/GitHub_Repo-→-%23181717?style=for-the-badge&logo=github)](https://github.com/sinchreddy/Santhe-Connect)
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## `$ git log --stats`
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinchreddy&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinchreddy&theme=tokyo-night&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                       CONTACT SECTION                             -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## `$ contact --me`
+
+```json
+{
+  "open_to"    : ["Full-time roles", "Internships", "Freelance projects"],
+  "respond_in" : "< 24 hours",
+  "preferred"  : "LinkedIn DM or Email"
+}
+```
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchananandheesha/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Drop_me_an_email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinchanareddyn@gmail.com)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_my_Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sinchana-nandheesha-portfolio.vercel.app/)
+&nbsp;
+[![X](https://img.shields.io/badge/Find_me_on_X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sinchreddy)
+
+<br/><br/>
+
+*If you're building something interesting, I'd love to hear about it.*
+
+<br/>
+
+</div>
